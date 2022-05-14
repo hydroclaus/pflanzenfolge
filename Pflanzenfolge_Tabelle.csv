@@ -1,0 +1,7 @@
+,Karotte,Spargel,Erbse,Radieschen,Tomate,Mangold
+Karotte,,,,,,
+Spargel,1,,,,,
+Erbse,0,1,,,,
+Radieschen,-1,1,0,,,
+Tomate,1,-1,1,1,,
+Mangold,1,0,1,-1,0,
